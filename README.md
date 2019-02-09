@@ -28,9 +28,30 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Jekyll ISSAE Cnam Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ISSAE/ISSAE.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+Exemple of _config.yml
+````yml
+remote_theme: ISSAE/architect
+
+name: Programmation Avancée 
+
+author: Pascal Fares
+
+author_email: pascal.fares@isae.edu.lb
+
+title: Programmation Avancée et Patron de conception en Java
+
+google_analytics: UA-29708002-2
+
+repository: ISSAE/NFP121
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+```
 
 ### Support or Contact
 
