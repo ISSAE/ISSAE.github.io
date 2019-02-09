@@ -65,7 +65,9 @@ If you'd like to preview the theme locally (for example, in the process of propo
 2. `cd` into the theme's directory
 3. Run `script/bootstrap` to install the necessary dependencies
 4. Run `bundle exec jekyll serve` to start the preview server
+   4.1. Si votre projet n'est pas un theme ajouter un fichier [Gemfile](https://github.com/ISSAE/NFP121/blob/master/Gemfile) qui resemble à celui ci [https://github.com/ISSAE/NFP121/blob/master/Gemfile](https://github.com/ISSAE/NFP121/blob/master/Gemfile)
 5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
