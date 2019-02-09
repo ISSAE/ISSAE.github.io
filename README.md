@@ -33,7 +33,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ISSAE/ISSAE.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 Exemple of _config.yml
-````yml
+
+```yml
 remote_theme: ISSAE/architect
 
 name: Programmation Avancée 
@@ -53,6 +54,18 @@ plugins:
   - jekyll-seo-tag
 ```
 
+
+### For reviewing the theme locally
+
+If you'd like to preview the theme locally (for example, in the process of proposing a change):
+
+0. [Get jekyll](https://jekyllrb.com/docs/installation/windows/)
+
+1. Clone down the theme's repository (`git clone https://github.com/ISSAE/architect.git`)
+2. `cd` into the theme's directory
+3. Run `script/bootstrap` to install the necessary dependencies
+4. Run `bundle exec jekyll serve` to start the preview server
+5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
