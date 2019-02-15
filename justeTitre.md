@@ -3,4 +3,6 @@ titre: Département informatique
 description: Communication et collaboration
 ---
 
-# une page de test
+# La page classroom pour les enseignants
+
+
