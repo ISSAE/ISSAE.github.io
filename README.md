@@ -2,7 +2,7 @@
 titre: Département informatique
 description: Communication et collaboration
 ---
-## Welcome to GitHub Pages
+## Welcome to ISSAE GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ISSAE/ISSAE.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
